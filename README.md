@@ -1,5 +1,15 @@
 ### Hello, I'm Piero :D
-
+- I'm from Peru, more especific from Lima, I'm a student and I'm 15
+### What I develop apps with?
+- I develop with Avalonia and C#⚡
+### What am I learning now?
+- Artificial Intelligence with TensorFlow and Python🐍
+- Web Development with Vue.js, TypeScript and ASP.NET Core
+### My hobbies
+- Listen to Electronic music🎶
+- Play mobile videogames🎮
+- Running🏃‍♂️
+- Learn English and German😁
 <!--
 **PieroCastillo/PieroCastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
