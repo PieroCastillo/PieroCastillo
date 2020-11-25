@@ -8,8 +8,6 @@
 ### My hobbies
 - Listen to Electronic music🎶
 - Play mobile videogames🎮
-- Running🏃‍♂️
-- Learn English and German😁
 <!--
 **PieroCastillo/PieroCastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
