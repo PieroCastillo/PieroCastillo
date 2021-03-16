@@ -3,7 +3,7 @@
 ### What I develop apps with?
 - I develop with Avalonia and C#⚡
 ### What am I learning now?
-- Artificial Intelligence with TensorFlow and Python🐍
+- Artificial Intelligence with Keras and Python🐍
 - Web Development with Vue.js, TypeScript and ASP.NET Core
 ### My hobbies
 - Listen to Electronic music🎶
