@@ -5,7 +5,7 @@
               src="https://www.youtube.com/playlist?list=PLZuXf5UCtDKDcp7u-HHsinUcDc6X0an5Y"
               frameborder="0" 
               allow="autoplay; encrypted-media"
-              allowfullscreen></iframe>
+              allowfullscreen="true"></iframe>
     </div>
   </foreignObject>
 </svg>
