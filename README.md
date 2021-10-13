@@ -1,13 +1,13 @@
 ### Hello, I'm Piero :D
-- I'm from Peru, more especific from Lima, I'm a student and I'm 15
+- I'm from Peru, more especific from Lima, I'm a student and I'm 16
 ### What I develop apps with?
-- I develop with Avalonia and C#⚡
-### What am I learning now?
-- Artificial Intelligence with Keras and Python🐍
-- Web Development with Vue.js, TypeScript and ASP.NET Core
-### My hobbies
-- Listen to Electronic music🎶
-- Play mobile videogames🎮
+- I develop with Avalonia and C#
+### Stats
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=PieroCastillo&show_icons=true&bg_color=45,934f6b,222222&theme=dark&text_color=c5ffc5)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PieroCastillo&show_icons=true&bg_color=45,a17753,222222&theme=dark&text_color=c5ffc5)
+
 <!--
 **PieroCastillo/PieroCastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
