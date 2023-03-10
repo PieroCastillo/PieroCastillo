@@ -1,5 +1,5 @@
 ### Hello, I'm Piero :D
-- I'm from Peru, more especific from Lima, I'm a student and I'm 16
+- I'm from Peru, more especific from Lima, I'm a student and I'm 17
 ### What I develop apps with?
 - I develop with Avalonia and C#
 ### Stats
