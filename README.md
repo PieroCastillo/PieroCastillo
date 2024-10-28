@@ -5,6 +5,7 @@
 **Desktop App Developer**
 <p>
   <img alt="C#" src="https://img.shields.io/badge/-C%23-green?style=flat-square&logo=csharp&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-red?logo=rust">
   <img alt="C++" src="https://img.shields.io/badge/-C++-E34F26?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="python" src="https://img.shields.io/badge/-Python-yelllow?style=flat-square&logo=python&logoColor=white" />
   <img alt="dotnet" src="https://img.shields.io/badge/-.NET-blue?style=flat-square&logo=dotnet&logoColor=white" />
@@ -26,9 +27,11 @@
 
 <p>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="azure" src="https://img.shields.io/badge/-Azure-31a9e3?style=flat-square&logo=azure&logoColor=white" />
+  <img alt="cmake" src="https://img.shields.io/badge/CMake-green?logo=cmake">
 </p>
 
-**Environment**
+**Environments**
 
 <p>
   <img alt="windows" src="https://img.shields.io/badge/-Windows-333?style=flat-square&logo=windows&logoColor=skyblue" />
