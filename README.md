@@ -1,51 +1,46 @@
 # Hello, I'm Piero :D
-- A student of Computer Science, a passionate of Computer Graphics, CPU&GPU architectures, pure matemathics and physics.
-- I like fruits.
 
-**Desktop App Developer**
-<p>
-  <img alt="C#" src="https://img.shields.io/badge/-C%23-green?style=flat-square&logo=csharp&logoColor=white" />
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-red?logo=rust">
-  <img alt="C++" src="https://img.shields.io/badge/-C++-E34F26?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img alt="python" src="https://img.shields.io/badge/-Python-yelllow?style=flat-square&logo=python&logoColor=white" />
-  <img alt="dotnet" src="https://img.shields.io/badge/-.NET-blue?style=flat-square&logo=dotnet&logoColor=white" />
-  <img alt="Avalonia" src="https://img.shields.io/badge/-Avalonia-purple?style=flat-square&logo=avalonia&logoColor=white" />
-  <img alt="Skia" src="https://img.shields.io/badge/-Skia-yellow?style=flat-square&logo=skia&logoColor=white" />
-  <img alt="Vulkan" src="https://img.shields.io/badge/-Vulkan-red?style=flat-square&logo=vulkan&logoColor=white" />
-</p>
+- Computer Science student passionate about Computer Graphics, CPU & GPU architecture, pure mathematics, and physics.
+- As you can probably tell, I'm all about computer architecture.
 
-**Backend Developer**
-<p>
-  <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="MongoDB"
-    src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Express"
-    src="https://img.shields.io/badge/-express-13aa52?style=flat-square&logo=express&logoColor=white" />
-</p>
+# Current Projects
 
-**DevOps**
+- **Lettuce**: A Vulkan graphics library built for desktop applications. There are a few demos if you want to try it out.
 
-<p>
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="azure" src="https://img.shields.io/badge/-Azure-31a9e3?style=flat-square&logo=azure&logoColor=white" />
-  <img alt="cmake" src="https://img.shields.io/badge/CMake-green?logo=cmake">
-</p>
+| Lettuce Core | Lettuce Rendering | Lettuce Quimera |
+| :---: | :---: | :---: |
+| ![triangle](./screenshots/lettuce/triangle.png) |  ![dragons](./screenshots/lettuce/dragons.png) | ![figures](./screenshots/lettuce/figures.png) |
 
-**Environments**
+- **Tilapia Server**: A server-side framework built around a daemon, runtime, and IR. Written in C++23 on top of Winsock RIO, with an io_uring backend coming soon. (WIP)
 
-<p>
-  <img alt="windows" src="https://img.shields.io/badge/-Windows-333?style=flat-square&logo=windows&logoColor=skyblue" />
-  <img alt="linux" src="https://img.shields.io/badge/-Ubuntu-orange?style=flat-square&logo=ubuntu&logoColor=white" />
-  <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
-  <img alt="vs" src="https://img.shields.io/badge/Visual_Studio-purple?style=flat-square&logo=visual-studio&logoColor=white" />
-  <img alt="rider" src="https://img.shields.io/badge/Rider-red?style=flat-square&logo=rider&logoColor=white" />
-  <img alt="clion" src="https://img.shields.io/badge/CLion-yellow?style=flat-square&logo=clion&logoColor=white" />
-</p>
+| Tilaria IR Visualizer | Tilapia Runtime |
+| :---: | :---: | 
+| ![irvis](./screenshots/tilapia/irvis.png) |  ![rt](./screenshots/tilapia/rt.png) |
 
+- **ambarOS**: A hobby operating system and microkernel written in C++23. Built for the fun of it, and yes, it boots in QEMU. (WIP)
 
+| ambarOS init |
+| :---: |
+| ![init](./screenshots/ambaros/qemu.png) | 
+# What do I use?
 
-### Stats
+- C++23 for anything performance-critical, built with GCC, Clang, or MSVC.
+- Python when I absolutely need scripting.
+- NASM whenever I write x86_64 assembly.
+- Shaders? Slang.
+- Vulkan is my primary graphics API, but I can work with DirectX 12 too.
+- For web apps I use Bun or Node with Hono, and Vue is my frontend framework of choice.
+- Windows 11 is my daily driver. I have no problem using Linux either—I just use whatever gets the job done.
+- CMake? Just use xmake, Python scripts, or literally anything that's actually human-readable.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=PieroCastillo&show_icons=true&bg_color=45,934f6b,222222&theme=dark&text_color=c5ffc5)
+# What do I build?
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PieroCastillo&show_icons=true&bg_color=45,a17753,222222&theme=dark&text_color=c5ffc5) -->
+- High-performance software, real-time graphics, shaders, and low-level systems.
+- Currently diving deeper into real-time rendering and high-performance networking (Winsock RIO and friends).
+- Audio programming is next on the list. I just need more hours in the day.
+
+# Why am I like this?
+
+- The conventional way is overrated. I'd rather understand how something works before I use it.
+- If it's considered "too low-level", that's usually where I get interested.
+- Maybe that's obsession. I call it curiosity.
